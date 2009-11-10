@@ -1,0 +1,41 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #ffa13b;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ffa13b;
+	SCROLLBAR-SHADOW-COLOR: #ffa13b;
+	SCROLLBAR-3DLIGHT-COLOR: #cd4401;
+	SCROLLBAR-ARROW-COLOR: #6e018d;
+	SCROLLBAR-TRACK-COLOR: #ffa13b;
+	SCROLLBAR-DARKSHADOW-COLOR: #cd4401;
+	background-color: #FE00A1;
+	background-image: url(RuncibleCat_files/bg_shocking.gif);
+}
+.text01 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tableborder {
+	BORDER-RIGHT: #73018d 2px dotted; BORDER-TOP: #73018d 2px dotted; BORDER-LEFT: #73018d 2px dotted; BORDER-BOTTOM: #73018d 2px dotted
+}
+.style1 {FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; }
+.style3 {font-size: 10pt}
+.style5 {font-size: 16pt}
+body,td,th {
+	color: #000000;
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 12px;
+}
+a:link {
+	color: #6E018D;
+}
+a:visited {
+	color: #CF4403;
+}
+a:hover {
+	color: #FE00A1;
+}
+a:active {
+	color: #53FB53;
+}
+.style6 {font-size: 10pt; font-family: Geneva, Arial, Helvetica, sans-serif; }
+a {
+	font-size: 12px;
+}
