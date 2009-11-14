@@ -6,8 +6,7 @@ BODY {
 	SCROLLBAR-ARROW-COLOR: #6e018d;
 	SCROLLBAR-TRACK-COLOR: #ffa13b;
 	SCROLLBAR-DARKSHADOW-COLOR: #cd4401;
-	background-color: #9a8634;
-	background-image: url(RuncibleCat_files/bg_shocking.gif);
+	background: #ffffff url('images/bg.png') repeat-x;
 }
 .text01 {
 	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
