@@ -16,25 +16,28 @@ BODY {
 	BORDER-RIGHT: #73018d 2px dotted; BORDER-TOP: #73018d 2px dotted; BORDER-LEFT: #73018d 2px dotted; BORDER-BOTTOM: #73018d 2px dotted
 }
 */
-.style1 {FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; }
+.style1 {FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; }
 .style3 {font-size: 10pt}
 .style5 {font-size: 16pt}
+.style6 {font-size: 60pt; COLOR: #58687e; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif, Verdana; font-weight: bold}
+/*
 body,td,th {
 	color: #000000;
 	font-family: Georgia, Times New Roman, Times, serif;
 	font-size: 12px;
 }
+*/
 a:link {
-	color: #6E018D;
+	color: #005dc7;
 }
 a:visited {
-	color: #CF4403;
+	color: #277384;
 }
 a:hover {
-	color: #FE00A1;
+	color: #277384;
 }
 a:active {
-	color: #53FB53;
+	color: #277384;
 }
 .style6 {font-size: 10pt; font-family: Geneva, Arial, Helvetica, sans-serif; }
 a {
